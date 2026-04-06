@@ -24,6 +24,7 @@ def ficha():
     #   - Código secreto: nombre invertido en mayúsculas
     #   - Las 3 notas, su suma, promedio y promedio entero
     #   - Cierre decorativo usando repetición de string ("=" * 24)
+    pass
     nombre=input()
     mail=input()
     nota1=int(input())
